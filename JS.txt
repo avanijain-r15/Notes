@@ -1,0 +1,5 @@
+## Var, Let & Const - Scope, Declaration & Initialization
+- Variables declared using var are hoisted to the top of their scope and initialized with a value of undefined(special type).
+- Variables declared using let are hoisted to the top of their scope but are not initialized with any value.
+- Variables declared using const are hoisted to the top of their scope but are not initialized with any value.
+
